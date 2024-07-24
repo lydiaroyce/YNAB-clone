@@ -82,26 +82,13 @@ This project is a clone of the popular budgeting application YNAB (You Need A Bu
 
 ### Project Structure
 
+```markdown
 YNAB-clone/
-├── app.py # Flask backend application
-├── budget_app.py # Core budget application logic
-├── budget_app_gui.py # tkinter frontend application
-├── commandline.py # Command line interface (optional)
-├── test_budget_app.py # Unit tests
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── budget.json # Example data file (if present)
-
-
-### Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-### Acknowledgements
-
-- Inspired by the functionality of YNAB (You Need A Budget).
-
+├── app.py                # Flask backend application
+├── budget_app.py         # Core budget application logic
+├── budget_app_gui.py     # tkinter frontend application
+├── commandline.py        # Command line interface (optional)
+├── test_budget_app.py    # Unit tests
+├── requirements.txt      # Python dependencies
+├── README.md             # Project documentation
+└── budget.json           # Example data file 
