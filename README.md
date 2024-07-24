@@ -1,4 +1,3 @@
-# YNAB-clone
 # YNAB Clone
 
 This project is a clone of the popular budgeting application YNAB (You Need A Budget). It provides functionality for managing personal finances, including adding income and expenses, viewing transaction history, generating category-wise expense reports, and viewing the overall financial status.
